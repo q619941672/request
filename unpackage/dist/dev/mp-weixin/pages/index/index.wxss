@@ -1,0 +1,13 @@
+
+.content swiper{
+/*	display: flex;
+	不挤在一起 flex-wrap: wrap; 
+	盒子不被撑大 box-sizing:bor-box
+	*/
+	height: 150px;
+}
+.content swiper image{
+	width: 100%;
+	height: 100%;
+}
+
